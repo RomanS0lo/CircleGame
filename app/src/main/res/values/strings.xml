@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Circles Game</string>
+    <string name="label_score_format">Score: %d/%d</string>
+    <string name="finish_game_format">Completed levels: %d</string>
+    <string name="placeholder_enter_username">Please enter username</string>
+    <string name="label_score_action">Scores</string>
+    <string name="title_scores">Best Score Table</string>
+    <string name="label_user_name">User Name</string>
+    <string name="label_points">points</string>
+    <string name="label_score">Score</string>
+    <string name="label_name">Name</string>
+    <string name="label_place">Place</string>
+    <string name="label_start">Start</string>
+</resources>
